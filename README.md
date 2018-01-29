@@ -1,4 +1,4 @@
-# selenium-with-maven
+# selenium-with-java
 
 ## Usage
 ```
